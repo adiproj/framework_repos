@@ -11,7 +11,7 @@ public class CreateOrginisation_Test {
 		
 		System.out.println("hi");
 		
-		
+		System.out.println("bye");
 	}
 
 }
