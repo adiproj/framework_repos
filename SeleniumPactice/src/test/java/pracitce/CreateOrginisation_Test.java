@@ -2,7 +2,7 @@ package pracitce;
 
 import org.testng.annotations.Test;
 
-public class CreateOrginisation {
+public class CreateOrginisation_Test {
 	
 	
 	
